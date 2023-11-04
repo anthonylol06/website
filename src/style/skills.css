@@ -1,0 +1,17 @@
+.Skills li {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  background-color: rgb(117, 53, 245);
+  width: 7rem;
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  border-radius: 2px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2px;
+}
+
+.Skills{
+  padding: 0 1rem;
+}
