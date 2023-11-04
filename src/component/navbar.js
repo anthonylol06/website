@@ -7,7 +7,7 @@ function NavBar(){
 
     return (
         <nav className='nav'>
-            <div>Anthony LO</div>
+            <a href='/website'>Anthony LO</a>
             <div className='toggle' onClick={() => {
                 toggleState(!toggleOpen);
             }}>
