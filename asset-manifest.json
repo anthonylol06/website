@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anthonylol06/website/static/css/main.c5a12f5a.css",
+    "main.js": "/anthonylol06/website/static/js/main.c1cb1518.js",
+    "static/js/787.71e672d5.chunk.js": "/anthonylol06/website/static/js/787.71e672d5.chunk.js",
+    "index.html": "/anthonylol06/website/index.html",
+    "main.c5a12f5a.css.map": "/anthonylol06/website/static/css/main.c5a12f5a.css.map",
+    "main.c1cb1518.js.map": "/anthonylol06/website/static/js/main.c1cb1518.js.map",
+    "787.71e672d5.chunk.js.map": "/anthonylol06/website/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a12f5a.css",
+    "static/js/main.c1cb1518.js"
+  ]
+}
