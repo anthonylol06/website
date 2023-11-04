@@ -16,7 +16,7 @@ function NavBar(){
                 <span className='bar'></span>
             </div>
             <ul className={toggleOpen ? "open": ''}>
-                <CustomLink to="/">Home</CustomLink>
+                <CustomLink to="/website">Home</CustomLink>
                 <CustomLink to="/about">About</CustomLink>
                 <CustomLink to="/skills">Skills</CustomLink>
             </ul>
